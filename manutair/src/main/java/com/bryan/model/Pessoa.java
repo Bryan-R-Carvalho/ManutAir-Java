@@ -1,7 +1,7 @@
 package com.bryan.model;
 
 public class Pessoa{
-    private Long id = (long) 333;
+    private Long id;
     private String endereco;
     private String telefone;
     
